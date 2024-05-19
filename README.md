@@ -6,9 +6,13 @@ https://espressif-docs.readthedocs-hosted.com/projects/esp8266-rtos-sdk/en/lates
 https://espressif-docs.readthedocs-hosted.com/projects/esp8266-rtos-sdk/en/latest/get-started/windows-setup.html
 
 Possible troubleshoot !!!!!!
+
 https://arduino-esp8266.readthedocs.io/en/3.1.2/installing.html#instructions-other-os
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 not used yet / possible src compilation
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 https://github.com/esp8266/Arduino
